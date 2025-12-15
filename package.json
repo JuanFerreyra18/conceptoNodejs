@@ -1,0 +1,16 @@
+{
+  "name": "conceptonodejs",
+  "version": "1.0.0",
+  "description": "practica de concepto de node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "arguments",
+    "modules",
+    "commands"
+  ],
+  "author": "Ferreyra Juan",
+  "license": "ISC"
+}
