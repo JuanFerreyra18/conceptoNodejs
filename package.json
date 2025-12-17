@@ -12,5 +12,8 @@
     "commands"
   ],
   "author": "Ferreyra Juan",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
 }

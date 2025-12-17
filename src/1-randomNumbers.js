@@ -13,6 +13,8 @@ console.log(args);
 let min = 1;
 let max = 100;
 
+//validaciones
+
 if(args.length === 2){
     //pasar los arg a tipo de dato number y que sean enteros
     const minParse = parseInt(args[0]);
